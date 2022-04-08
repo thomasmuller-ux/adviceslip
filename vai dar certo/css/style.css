@@ -1,0 +1,16 @@
+h1 {
+    text-align:center;
+    font-size: 30px;
+    color:#4169E1;
+    margin-top: 5vh;
+}
+
+body{
+    background-color: #1C1C1C;
+    font-family: 'Share Tech Mono', monospace;
+    flex-direction: column;
+    color:#4169E1;
+}
+
+
+
